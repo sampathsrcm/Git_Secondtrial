@@ -1,1 +1,4 @@
 This is the file line in myfile.txt created in local
+adding a second line to this file for merge test
+
+There is a differecne
